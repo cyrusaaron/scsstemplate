@@ -1,0 +1,18 @@
+
+/* Main SCSS file */
+
+/* Base */
+@import 'base/typography';
+
+/* Helpers */
+@import 'helpers/colors';
+
+/* Layout */
+@import 'layout/header';
+@import 'layout/footer';
+@import 'layout/forms';
+@import 'layout/navigation';
+
+/* Pages */
+@import 'pages/home';
+@import 'pages/contact';
